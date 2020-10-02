@@ -21,15 +21,15 @@ Part I - Generic Development Guidelines
 Either going for a traditional JavaScript/HTML/CSS solution from scratch or considering an already existing Web App implementation for the Desktop, the following resources should help in addressing the issues mentioned above:
 
 * Single-Page Application
-** https://en.wikipedia.org/wiki/Single-page_application
-** https://muffingroup.com/youknowbetter/#start
-** https://github.com/SantiagoGdaR/vanilla-spa
+  * https://en.wikipedia.org/wiki/Single-page_application
+  * https://muffingroup.com/youknowbetter/#start
+  * https://github.com/SantiagoGdaR/vanilla-spa
 * Spatial Navigation
-** https://github.com/luke-chang/js-spatial-navigation
+  * https://github.com/luke-chang/js-spatial-navigation
 * Input - T9 Keyboard
-** https://github.com/lassse/t9-keyboard-js
+  * https://github.com/lassse/t9-keyboard-js
 * Input - Virtual Keyboard
-** https://github.com/hodgef/simple-keyboard
+  * https://github.com/hodgef/simple-keyboard
 
 Part II - Performance Oriented Development
 
@@ -38,4 +38,4 @@ The UMA platform is built on RDK (Reference Design Kit), which provides support 
 This app framework is specifically set for TV based user interfaces, with both usability and performance as core features
 
 * Lightning TV App Development
-** https://github.com/rdkcentral/Lightning
+  * https://github.com/rdkcentral/Lightning
