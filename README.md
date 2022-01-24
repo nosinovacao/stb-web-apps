@@ -12,6 +12,8 @@ Points to Consider:
 
 * app development should follow SPA (Single Page Application) patterns
 
+* app resolution required to be 1080p (Full HD)
+
 
 
 Below are some community projects and websites aimed at addressing these issues:
